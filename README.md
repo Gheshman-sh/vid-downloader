@@ -3,10 +3,10 @@
 
 ![App Screenshot](https://github.com/user-attachments/assets/52f84c16-02ee-4b15-b764-475a30887056)
 
-[![Latest Release](https://img.shields.io/github/v/release/Geshman-sh/vid-downloader?color=brightgreen)](../../releases)
-[![Downloads](https://img.shields.io/github/downloads/Geshman-sh/vid-downloader/total?color=blue)](../../releases)
+[![Latest Release](https://img.shields.io/github/v/release/Gheshman-sh/vid-downloader?color=brightgreen)](../../releases)
+[![Downloads](https://img.shields.io/github/downloads/Gheshman-sh/vid-downloader/total?color=blue)](../../releases)
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
-![Downloads](https://img.shields.io/github/downloads/Geshman-sh/vid-downloader/total?color=blue)
+![Downloads](https://img.shields.io/github/downloads/Gheshman-sh/vid-downloader/total?color=blue)
 
 ---
 
