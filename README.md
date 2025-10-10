@@ -6,7 +6,6 @@
 [![Latest Release](https://img.shields.io/github/v/release/Gheshman-sh/vid-downloader?color=brightgreen)](../../releases)
 [![Downloads](https://img.shields.io/github/downloads/Gheshman-sh/vid-downloader/total?color=blue)](../../releases)
 [![License](https://img.shields.io/badge/license-MIT-green.svg)](LICENSE)
-![Downloads](https://img.shields.io/github/downloads/Gheshman-sh/vid-downloader/total?color=blue)
 
 ---
 
