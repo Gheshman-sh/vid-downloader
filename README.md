@@ -12,20 +12,8 @@
 ## ✨ Features
 - 🎯 Download videos from YouTube and hundreds of other sites via [YT-DLP](https://github.com/yt-dlp/yt-dlp)  
 - 💻 Clean, simple, and intuitive interface  
-- 🎥 Multiple formats & resolutions: MP4 / WEBM, from 480p up to 1080p  
-- ⚡ Fast downloads with FFmpeg integration  
-- 🛠 Optional [PhantomJS](https://phantomjs.org/) support for certain sites  
-- 🖥 Windows-only build  
-
----
-
-## 📦 Requirements
-- **FFmpeg** → [Download here](https://www.gyan.dev/ffmpeg/builds/packages/ffmpeg-2025-06-16-git-e6fb8f373-essentials_build.7z)  
-- *(Optional)* **PhantomJS** → [Download here](https://bitbucket.org/ariya/phantomjs/downloads/phantomjs-2.1.1-windows.zip)  
-
-**Setup Instructions:**
-1. Extract FFmpeg (and PhantomJS if needed) to your desired location.  
-2. Add their `bin` folder paths to your system's **Environment Variables → PATH**.  
+- 🎥 Multiple formats & resolutions: MP4, from 720p up to 1080p  
+- 🖥 Windows-only build
 
 ---
 
