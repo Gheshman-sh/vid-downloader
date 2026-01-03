@@ -1,7 +1,7 @@
 # 📥 Vid Downloader
 *A modern, all-in-one video downloader with a clean UI for YT-DLP*  
 
-![App Screenshot](https://github.com/user-attachments/assets/3c9ca101-10b4-4d70-97dc-5177a2775f7b")
+<img width="1383" height="886" alt="{9511970D-BE6D-44B4-99C2-7AE1A50E2715}" src="https://github.com/user-attachments/assets/b91121bf-bae4-4706-bc7b-2a5f01604d21" />
 
 [![Latest Release](https://img.shields.io/github/v/release/Gheshman-sh/vid-downloader?color=brightgreen)](../../releases)
 [![Downloads](https://img.shields.io/github/downloads/Gheshman-sh/vid-downloader/total?color=blue)](../../releases)
